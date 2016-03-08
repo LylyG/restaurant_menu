@@ -7,4 +7,4 @@ Create an online menu for a restaurant with a fixed number of categories and ima
 ```Ruby
 Code goes here
 ```
-Explore the app on <a href="glacial-dusk-60771.herokuapp.com">Heroku</a>. 
+Explore the app on <a href="https://fierce-dusk-64631.herokuapp.com/">Heroku</a>. 
